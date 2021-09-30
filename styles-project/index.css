@@ -1,0 +1,143 @@
+.container-menu {
+  width: 1109px;
+  height: 30px;
+  margin-top: 61px;
+  margin-left: 126px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.home-page-btn {
+  width: -webkit-fit-content;
+  width: -moz-fit-content;
+  width: fit-content;
+  font-family: "Mulish", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+  font-size: 18px;
+  border: none;
+  background-color: white;
+  margin-left: 1000px;
+}
+
+.home-page-btn:hover, .contact-btn:hover {
+  background-color: #c7c3c3;
+  border-radius: 5px;
+}
+
+.contact-btn {
+  width: -webkit-fit-content;
+  width: -moz-fit-content;
+  width: fit-content;
+  font-family: "Mulish", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+  font-size: 18px;
+  border: none;
+  background-color: white;
+  margin-left: 1110px;
+}
+
+.container-title {
+  font-family: "Mulish", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+  font-size: 40px;
+  width: 495px;
+  height: 130px;
+  margin-top: 184px;
+  margin-left: 115px;
+}
+
+.container-title2 {
+  width: 635px;
+  height: 222px;
+  margin-top: 0px;
+  margin-left: 100px;
+  font-family: "Mulish", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 16px;
+  /*width: 495px;
+  height: 130px;
+  margin-top: 184px;
+  margin-left: 115px;*/
+}
+
+.red-carpet-img {
+  width: 1110px;
+  height: 660px;
+  margin-top: 0px;
+  margin-left: 125px;
+}
+
+.middle-txt {
+  width: 1109px;
+  height: 93px;
+  margin-left: 125px;
+  font-family: "Mulish", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 16px;
+  opacity: 80%;
+}
+
+.img-1 {
+  width: 350px;
+  height: 400px;
+  margin-top: 0px;
+  margin-left: 125px;
+}
+
+.img-2 {
+  width: 350px;
+  height: 400px;
+  margin-top: 0px;
+  margin-left: 505px;
+}
+
+.img-3 {
+  width: 350px;
+  height: 400px;
+  margin-top: 0px;
+  margin-left: 885px;
+}
+
+.container-footer {
+  width: 1110px;
+  height: 30px;
+  margin-top: 0px;
+  margin-left: 125px;
+}
+
+.projects2 {
+  font-family: "Mulish", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+  font-size: 18px;
+  border: none;
+  background-color: white;
+  margin-left: 757px;
+}
+
+.contact2 {
+  font-family: "Mulish", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+  font-size: 18px;
+  border: none;
+  background-color: white;
+}
+
+.projects2:hover, .contact2:hover {
+  background-color: #b4b3b3;
+  border-radius: 5px;
+}
+
+.social-img {
+  width: 95px;
+  height: 15px;
+  margin-top: 0px;
+  margin-left: 1050px;
+}

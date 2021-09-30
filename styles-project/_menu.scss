@@ -1,0 +1,35 @@
+.container-menu {
+    width: 1109px;
+    height: 30px;
+    margin-top: 61px;
+    margin-left: 126px;
+    display: flex;
+    }
+
+.home-page-btn {
+    width: fit-content;
+    font-family: 'Mulish', sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 18px;
+    border: none;
+    background-color: white;
+    margin-left: 1000px;
+    }
+    
+.home-page-btn:hover, .contact-btn:hover {
+    background-color: rgb(199, 195, 195);
+    border-radius: 5px;
+    }
+    
+.contact-btn {
+    width: fit-content;
+    font-family: 'Mulish', sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 18px;
+    border: none;
+    background-color: white;
+    margin-left: 1110px;
+    }
+
