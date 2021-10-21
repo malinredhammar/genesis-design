@@ -6,7 +6,14 @@
     display: flex;
     }
 
-.home-page-btn {
+.menu-btns {
+    width: 100px;
+    height: 30px;
+    top: 61px;
+    left: 10px;
+}
+
+    .home-page-btn {
     width: fit-content;
     font-family: 'Mulish', sans-serif;
     font-weight: 700;

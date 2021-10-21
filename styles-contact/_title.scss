@@ -1,3 +1,18 @@
+.container-menu {
+    width: 1109px;
+    height: 30px;
+    margin-top: 61px;
+    margin-left: 126px;
+}
+
+
+.text-form {
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    max-width: 100%;
+}
+
 .container-title {
     font-family: 'Mulish', sans-serif;
     font-weight: 700;
@@ -7,6 +22,7 @@
     height: 174px;
     margin-top: 194px;
     margin-left: 125px;
+    max-width: 100%;
 }
 
 .map-img {
@@ -25,4 +41,25 @@
     height: 56px;
     margin-top: 0px;
     margin-left: 125px;
+    max-width: 100%;
+}
+
+.project-btn {
+    font-family: 'Mulish', sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 18px;
+    border: none;
+    background-color: rgb(255, 255, 255);
+    margin-left: 1200px;
+}
+
+.home-page-btn {
+    font-family: 'Mulish', sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 18px;
+    border: none;
+    background-color: rgb(255, 255, 255);
+    margin-left: 1300px;
 }

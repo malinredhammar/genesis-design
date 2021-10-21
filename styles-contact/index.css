@@ -1,3 +1,24 @@
+.container-menu {
+  width: 1109px;
+  height: 30px;
+  margin-top: 61px;
+  margin-left: 126px;
+}
+
+.text-form {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: row;
+          flex-direction: row;
+  max-width: 100%;
+}
+
 .container-title {
   font-family: "Mulish", sans-serif;
   font-weight: 700;
@@ -7,6 +28,7 @@
   height: 174px;
   margin-top: 194px;
   margin-left: 125px;
+  max-width: 100%;
 }
 
 .map-img {
@@ -25,11 +47,46 @@
   height: 56px;
   margin-top: 0px;
   margin-left: 125px;
+  max-width: 100%;
+}
+
+.project-btn {
+  font-family: "Mulish", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+  font-size: 18px;
+  border: none;
+  background-color: white;
+  margin-left: 1200px;
+}
+
+.home-page-btn {
+  font-family: "Mulish", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+  font-size: 18px;
+  border: none;
+  background-color: white;
+  margin-left: 1300px;
+}
+
+.contact-container {
+  max-width: 1000px;
+  width: 100%;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  -webkit-box-align: start;
+      -ms-flex-align: start;
+          align-items: flex-start;
 }
 
 .name {
   font-family: "Mulish", sans-serif;
-  font-weight: normal;
+  font-weight: 400;
   font-style: normal;
   font-size: 16px;
 }
@@ -38,7 +95,7 @@ input[type=text] {
   background: transparent;
   border: none;
   border-bottom: 1px solid #D8D8D8;
-  width: 475px;
+  width: 250px;
 }
 
 .form {
@@ -46,4 +103,60 @@ input[type=text] {
   height: 291px;
   margin-top: 215px;
   margin-left: 760px;
+  max-width: 100%;
+}
+
+.submit-btn {
+  width: 125px;
+  height: 50px;
+  background-color: #4A4FF2;
+  font-family: "Mulish", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+  font-size: 16px;
+  text-align: center;
+  border: none;
+  color: white;
+}
+
+.submit-btn:hover {
+  font-size: 20px;
+}
+
+.container-footer {
+  width: 1110px;
+  height: 30px;
+  margin-top: 0px;
+  margin-left: 125px;
+}
+
+.projects2 {
+  font-family: "Mulish", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+  font-size: 18px;
+  border: none;
+  background-color: white;
+  margin-left: 0px;
+}
+
+.contact2 {
+  font-family: "Mulish", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+  font-size: 18px;
+  border: none;
+  background-color: white;
+}
+
+.projects2:hover, .contact2:hover {
+  background-color: #b4b3b3;
+  border-radius: 5px;
+}
+
+.social-img {
+  width: 95px;
+  height: 15px;
+  margin-top: 0px;
+  margin-left: 1050px;
 }
